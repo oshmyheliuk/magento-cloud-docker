@@ -5,6 +5,7 @@
  */
 declare(strict_types=1);
 
+
 namespace Magento\CloudDocker\Compose\ProductionBuilder\Service;
 
 use Magento\CloudDocker\Compose\BuilderInterface;
